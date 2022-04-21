@@ -11,5 +11,7 @@ EL curso de Git y Gihutb de Platzi es lo que me hací falta para triplicar mi sa
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
 Creado por el increíble Platzi team
+Incluye ejemplos en windows y mac
+
 
 Y como un amable recordatorio: Este reame.md es un chiste. Diseñado para el ejemplo. Si llegas acá **NO TE LO TOMES EN SERIO** y[** mejor ve a ver el curso.**](http://https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ " mejor ve a ver el curso.")
